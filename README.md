@@ -17,16 +17,27 @@ product_prices(id int,product_id varchar,price int)
 CASE STUDY QUESTIONS:
 
 What was the total quantity sold for all products?
+
 What is the total generated revenue for all products before discounts?
+
 What was the total discount amount for all products?
+
 How many unique transactions were there?
+
 What are the average unique products purchased in each transaction?
+
 What is the average discount value per transaction?
+
 What is the average revenue for member transactions and non-member transactions?
+
 What are the top 3 products by total revenue before discount?
+
 What are the total quantity, revenue and discount for each segment?
+
 What is the top selling product for each segment?
+
 What are the total quantity, revenue and discount for each category?
+
 What is the top selling product for each category?
 
 
